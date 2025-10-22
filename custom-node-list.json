@@ -35150,6 +35150,17 @@
             ],
             "install_type": "git-clone",
             "description": "Use image to search similar images from danbooru using various methods. Notice: the optional API key will be saved to metadata if used"
+        },
+		{
+            "author": "l33chking",
+            "title": "ComfyUI Channel Ops",
+            "id": "ComfyUI-Channel-Ops",
+            "reference": "https://github.com/L33chKing/ComfyUI_Channel_Ops",
+            "files": [
+                "https://github.com/L33chKing/ComfyUI_Channel_Ops"
+            ],
+            "install_type": "git-clone",
+            "description": "Comfyui custom node that modifies image channels with various per-channel operations"
         }
     ]
 }
